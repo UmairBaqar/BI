@@ -47,8 +47,34 @@ Currently contributing to the **Client Services and Program Administration Branc
 
 - 📘 *PL-300 Microsoft Data Analyst Certificate* (In Progress)  
 - 📘 *Certificate in Business Analysis at Red River College, Canada * (In Progress)  
-- 🎓 *MBA – Master of Business Administration with a focus in Industrial Managment* (2013)  
+- 🎓 *MBA – Master of Business Administration with a focus in Industrial Management* (2013)  
 - 🎓 *BBA – Bachelor of Business Administration with a focus in Management Information Systems and Marketing* (2010)
+
+---
+
+## 💼 Featured Portfolio Project
+
+### 📊 Adventure Works Sales Analysis Dashboard
+
+**Description:**  
+An interactive Power BI dashboard analyzing sales performance, top products, and customer behavior across regions using the Adventure Works dataset. Built with advanced SQL queries, DAX calculations, and clean visual storytelling.
+
+**🔧 Tools Used:**  
+Power BI · T-SQL · DAX · Power Query
+
+**🌟 Highlights:**  
+- Automated SQL ETL pipelines  
+- KPI visualizations and YoY trend analysis  
+- Data modeling with star schema design  
+
+**🔗 Links:**  
+[📂 View Project Repository](https://github.com/yourusername/adventureworks-sales-dashboard)  
+[📷 Preview Dashboard](https://your-dashboard-screenshot-link.com) <!-- Optional image or Power BI service link -->
+
+<!-- Optional embedded image thumbnail -->
+<!-- 
+[![Dashboard Preview](project-thumbnail.png)](https://github.com/yourusername/adventureworks-sales-dashboard)
+-->
 
 ---
 
