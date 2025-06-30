@@ -44,6 +44,15 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 [📂 View Project Repository](https://github.com/yourusername/adventureworks-sales-dashboard)  
 [📷 Preview Dashboard](https://your-dashboard-preview-link.com)
 
+[![Dashboard Collage](adventureworks-collage.png)](https://github.com/yourusername/adventureworks-sales-dashboard)
+
+<p align="center">
+  <img src="img1.png" width="250" alt="U Jawaid Dashboard Screen 1">
+  <img src="img2.png" width="250" alt="U Jawaid Dashboard Screen 4 Data Modeling">
+  <img src="img3.png" width="250" alt="U Jawaid Dashboard Screen 5 SQL">
+</p>
+
+
 ---
 
 ## 📜 Certifications
