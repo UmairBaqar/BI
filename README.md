@@ -13,17 +13,20 @@ Currently contributing to the **Client Services and Program Administration Branc
 - 🏛️ Government Policies & Compliance
 - 🤝 Client Relations & Program Administration
 - 📈 Reporting, Dashboards & Data Modeling
-- 📝 Agreement & Document Administration
+- 📝 Contracts & Document Administration
 - 🔧 Process Improvement & Workflow Optimization
-- 📢 Sales & Marketing Strategy
+- 📢 Sales & Marketing Management
 - ⚙️ Digital Transformation & Business Automation
 
 ---
 
 ## 💼 Technical Toolset
 
-### Business & Administration:
-`SAP` • `Power BI` • `Microsoft 365 Suite` • `SharePoint` • `Adobe Acrobat & Creative Tools`
+### Data Science:
+• `Power BI` • `SQL` • `Microsoft Excel`  
+
+### Business Administration:
+`SAP` • `Microsoft 365 Suite` • `SharePoint` • `Adobe Acrobat & Creative Tools`
 
 ### Accounting:
 `Zoho Books` • `QuickBooks`
@@ -46,16 +49,16 @@ Currently contributing to the **Client Services and Program Administration Branc
 ## 🎓 Education
 
 - 📘 *PL-300 Microsoft Data Analyst Certificate* (In Progress)  
-- 📘 *Certificate in Business Analysis* (In Progress)  
-- 🎓 *MBA – Master of Business Administration* (2013)  
-- 🎓 *BBA – Bachelor of Business Administration* (2010)
+- 📘 *Certificate in Business Analysis at Red River College, Canada * (In Progress)  
+- 🎓 *MBA – Master of Business Administration with a focus in Industrial Managment* (2013)  
+- 🎓 *BBA – Bachelor of Business Administration with a focus in Management Information Systems and Marketing* (2010)
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- 💌 [Email Me](mailto:your.email@example.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/umairjaw)  
+- 💌 [Email Me](mailto:umairbaqar@yahoo.com)  
 - 🗂️ [View My Projects](https://github.com/yourusername?tab=repositories)
 
 ---
