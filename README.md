@@ -1,16 +1,18 @@
 <h1 align="center">Hi, I'm Umair Jawaid 👋</h1>
 
 <p align="center">
-  Business Analyst | Data Enthusiast | Power BI & SQL Developer  
+  Business Analyst | Data Enthusiast | Power BI Developer  
   <br>
-  📍 Based in Manitoba, Canada
+  📍 Based in Winnipeg, Canada
 </p>
 
 ---
 
 ## 💼 About Me
 
-Detail-oriented and analytical professional with 14+ years of experience in business and program administration, sales & marketing management, and client services. Currently working with Manitoba Agriculture, transforming complex data and policies into clear, actionable insights.
+Detail-oriented and analytical professional with 14+ years of experience in business and program administration, sales & marketing management, and client services. Currently contributing to the **Client Services and Program Administration Branch** at **Manitoba Agriculture**, where I apply my expertise in government program administration, business intelligence, and client-centered service delivery.
+
+
 
 - 🧠 Skilled in: Power BI, SQL, Business Analysis, Workflow Optimization  
 - 🛠️ Tools: Microsoft 365, Power BI, SAP, SharePoint, Canva  
@@ -50,7 +52,6 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 - LinkedIn Skill Badges – Google Analytics, Excel  
 - HubSpot Academy – SEO Certificate  
 - SEMrush Academy – Content Marketing  
-- 📚 In Progress: Microsoft Power BI Data Analyst Certificate
 
 ---
 
