@@ -31,9 +31,26 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 
 ---
 
-## 📊 Featured Project
+## 📜 Certifications
 
-### 🎯 Adventure Works Sales Analysis Dashboard
+- Google Digital Garage – Fundamentals of Digital Marketing  
+- LinkedIn Skill Badges – Google Analytics, Excel  
+- HubSpot Academy – SEO Certificate  
+- SEMrush Academy – Content Marketing  
+
+---
+
+## 📚 Education
+
+- 🎓 MBA, 2013  
+- 🎓 BBA, 2010  
+- 📘 Certificate in Business Analysis *(In Progress)*  
+- 📘 PL-300 Data Analyst Certificate *(In Progress)*
+
+
+## 📊 Featured Portfolio Projects
+
+### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
 
 An interactive Power BI dashboard analyzing sales performance, top products, and customer insights using SQL + DAX. Built with Microsoft AdventureWorks dataset to demonstrate real-world sales analytics.
 
@@ -54,23 +71,18 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 </p>
 
 
----
+<table>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 1.png" width="300"></td>
+    <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 5 SQL.png" width="300"></td>
+    <td><img src="U Jawaid Dashboard Screen 6 Cleaned Data.png" width="300"></td>
+  </tr>
+</table>
 
-## 📜 Certifications
 
-- Google Digital Garage – Fundamentals of Digital Marketing  
-- LinkedIn Skill Badges – Google Analytics, Excel  
-- HubSpot Academy – SEO Certificate  
-- SEMrush Academy – Content Marketing  
-
----
-
-## 📚 Education
-
-- 🎓 MBA, 2013  
-- 🎓 BBA, 2010  
-- 📘 Certificate in Business Analysis *(In Progress)*  
-- 📘 PL-300 Data Analyst Certificate *(In Progress)*
 
 ---
 
