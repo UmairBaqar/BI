@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-Detail-oriented and analytical professional with 14+ years of experience in business and program administration, sales & marketing management, and client services. Currently contributing to the **Client Services and Program Administration Branch** at **Manitoba Agriculture**, where I apply my expertise in government program administration, business intelligence, and client-centered service delivery.
+Detail-oriented and analytical professional with 14+ years of experience in business and program administration, sales & marketing management, and client services. Currently contributing to the Client Services and Program Administration Branch at Manitoba Agriculture, where I apply my expertise in government program administration, business intelligence, and client-centered service delivery.
 
 
 
@@ -42,8 +42,8 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 
 ## 📚 Education
 
-- 🎓 MBA, 2013  
-- 🎓 BBA, 2010  
+- 🎓 MBA, Industrial Management- 2013  
+- 🎓 BBA, Marketing & Management Information Systems- 2010  
 - 📘 Certificate in Business Analysis *(In Progress)*  
 - 📘 PL-300 Data Analyst Certificate *(In Progress)*
 
