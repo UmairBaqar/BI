@@ -5,4 +5,4 @@ Certificate in Business Analysis (In Progress)
 Master of Business Administration
 Bachelor of Business Administration
 
-Portfolio Projects # 1
+Portfolio Project # 1: Sales Analysis Dashboard in Power Bi for Advetnure Works
