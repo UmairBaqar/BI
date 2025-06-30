@@ -59,7 +59,7 @@ An interactive Power BI dashboard analyzing sales performance, top products, and
 SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 
 **🔗 Links:**  
-[📂 View Project Repository]([https://github.com/yourusername/adventureworks-sales-dashboard](https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git))  
+[📂 View Project Repository](https://github.com/yourusername/adventureworks-sales-dashboard](https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git))  
 
 [📷 Preview Dashboard]
 
