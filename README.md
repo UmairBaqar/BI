@@ -79,7 +79,7 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/umairjaw)  
+[[LinkedIn](https://www.linkedin.com/in/umairjaw)  
 📬 [Email Me](umairbaqar@yahoo.com)
 
 ---
