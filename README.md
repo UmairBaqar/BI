@@ -4,3 +4,5 @@
 Certificate in Business Analysis (In Progress)
 Master of Business Administration
 Bachelor of Business Administration
+
+Portfolio Projects 1
