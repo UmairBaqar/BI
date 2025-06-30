@@ -1,8 +1,63 @@
-# BI Developer | Business Analyst
+# 👋 Hi there, I'm Umair Jawaid
 
-## Education
-Certificate in Business Analysis (In Progress)
-Master of Business Administration
-Bachelor of Business Administration
+🎯 A detail-oriented and analytical professional with 14+ years of experience in business and program administration, business analysis, and sales & marketing management. I specialize in transforming complexity into clarity, leveraging analytics, automation, and insight-driven decision-making.
 
-Portfolio Project # 1: Sales Analysis Dashboard in Power Bi for Advetnure Works
+Currently contributing to the **Client Services and Program Administration Branch** at **Manitoba Agriculture**, where I apply my expertise in government program administration, business intelligence, and client-centered service delivery.
+
+---
+
+## 🧠 Core Competencies
+
+- 📊 Data & Business Analysis
+- 💰 Financial & Budget Management
+- 🏛️ Government Policies & Compliance
+- 🤝 Client Relations & Program Administration
+- 📈 Reporting, Dashboards & Data Modeling
+- 📝 Agreement & Document Administration
+- 🔧 Process Improvement & Workflow Optimization
+- 📢 Sales & Marketing Strategy
+- ⚙️ Digital Transformation & Business Automation
+
+---
+
+## 💼 Technical Toolset
+
+### Business & Administration:
+`SAP` • `Power BI` • `Microsoft 365 Suite` • `SharePoint` • `Adobe Acrobat & Creative Tools`
+
+### Accounting:
+`Zoho Books` • `QuickBooks`
+
+### Marketing & Automation:
+`Google Analytics` • `Google Ads` • `Facebook Advert` • `Yoast SEO` • `WordPress` • `OptimizePress` • `Canva` • `ActiveCampaign` • `MailChimp` • `ClickFunnels` • `Zapier`
+
+---
+
+## 📜 Certifications
+
+- ✅ *Google Digital Garage*: Fundamentals of Digital Marketing  
+- ✅ *LinkedIn Skill Assessments*: Google Analytics, Microsoft Excel  
+- ✅ *HubSpot Academy*: SEO Certificate  
+- ✅ *SEMrush Academy*: Content Marketing Fundamentals  
+- 🔄 *In Progress*: Microsoft Power BI Data Analyst Certificate
+
+---
+
+## 🎓 Education
+
+- 📘 *PL-300 Microsoft Data Analyst Certificate* (In Progress)  
+- 📘 *Certificate in Business Analysis* (In Progress)  
+- 🎓 *MBA – Master of Business Administration* (2013)  
+- 🎓 *BBA – Bachelor of Business Administration* (2010)
+
+---
+
+## 🌐 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- 💌 [Email Me](mailto:your.email@example.com)  
+- 🗂️ [View My Projects](https://github.com/yourusername?tab=repositories)
+
+---
+
+🚀 *Driven by insight. Powered by curiosity. Focused on impact.*
