@@ -47,9 +47,9 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 [![Dashboard Collage](adventureworks-collage.png)](https://github.com/yourusername/adventureworks-sales-dashboard)
 
 <p align="center">
-  <img src="U Jawaid Dashboard Screen 1" width="250" alt="Sales Dashboard Main Screen">
-  <img src="U Jawaid Dashboard Screen 4 Data Modeling" width="250" alt="Data Modeling in Power Bi">
-  <img src="U Jawaid Dashboard Screen 5 SQL" width="250" alt="Data Extraction using SQL">
+  <img src="U Jawaid Dashboard Screen 1.png" width="250" alt="Sales Dashboard Main Screen">
+  <img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="250" alt="Data Modeling in Power Bi">
+  <img src="U Jawaid Dashboard Screen 5 SQL.png" width="250" alt="Data Extraction using SQL">
 </p>
 
 
