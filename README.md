@@ -57,7 +57,7 @@ Currently contributing to the **Client Services and Program Administration Branc
 
 ## 🌐 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/umairjawaid)
+- 💼 [LinkedIn](https://www.linkedin.com/in/umairjaw)
 - 💌 [Email Me](mailto:umairbaqar@yahoo.com)  
 - 🗂️ [View My Projects](https://github.com/yourusername?tab=repositories)
 
