@@ -63,4 +63,4 @@ Currently contributing to the **Client Services and Program Administration Branc
 
 ---
 
-🚀 *Driven by insight. Powered by curiosity. Focused on impact.*
+🚀 *Driven by insight. Focused on impact.*
