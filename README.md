@@ -22,11 +22,8 @@ Currently contributing to the **Client Services and Program Administration Branc
 
 ## 💼 Technical Toolset
 
-### Data Science:
-• `Power BI` • `SQL` • `Microsoft Excel`  
-
-### Business Administration:
-`SAP` • `Microsoft 365 Suite` • `SharePoint` • `Adobe Acrobat & Creative Tools`
+### Business Intelligence  & Productivity Tools:
+`Microsoft 365` • `Excel (Advanced)` • `Outlook` • `PowerPoint` • `Word` • `SharePoint` • `Teams` • `OneDrive` • `Power Automate` • `Power BI` • `SQL` • `SAP` •`Adobe Acrobat & Creative Tools`
 
 ### Accounting:
 `Zoho Books` • `QuickBooks`
