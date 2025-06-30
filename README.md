@@ -48,6 +48,7 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 - 📘 PL-300 Data Analyst Certificate *(In Progress)*
 
 
+
 ## 📊 Featured Portfolio Projects
 
 ### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
@@ -79,8 +80,9 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 
 ## 🌐 Connect with Me
 
-[[LinkedIn](https://www.linkedin.com/in/umairjaw)  
-📬 [Email Me](umairbaqar@yahoo.com)
+
+<p align="center"><a href="https://www.linkedin.com/in/umairjawaid" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:umairbaqar@yahoo.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a><a href="https://github.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://your-resume-link.com" target="_blank"><img src="https://img.shields.io/badge/-Resume-6A5ACD?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"></a></p>
+
 
 ---
 
