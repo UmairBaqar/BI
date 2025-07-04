@@ -28,7 +28,14 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-
+![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-1572A1?style=flat&logo=activecampaign&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/-Mailchimp-FFE01B?style=flat&logo=mailchimp&logoColor=black)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![OptimizePress](https://img.shields.io/badge/-OptimizePress-2C9AB7?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjMkM5QUI3Ii8+PC9zdmc+)
+![Yoast](https://img.shields.io/badge/-Yoast-A4286A?style=flat&logo=yoast&logoColor=white)
+![Zoho Books](https://img.shields.io/badge/-Zoho_Books-FF5722?style=flat&logo=zoho&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/-QuickBooks-21A366?style=flat&logo=intuit&logoColor=white)
+![SAP CRM](https://img.shields.io/badge/-SAP_CRM-0FAAFF?style=flat&logo=sap&logoColor=white)
 ---
 
 ## 📜 Certifications
