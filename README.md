@@ -58,7 +58,7 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 - 🎓 MBA, Industrial Management- 2013  
 - 🎓 BBA, Marketing & Management Information Systems- 2010  
 - 📘 Certificate in Business Analysis- RRC Polytech- Winnipeg, Canada *(In Progress)*  
-- 📘 PL-300 Data Analyst Certificate *(In Progress)*
+- 📘 Microsoft PL-300 Data Analyst Certificate *(In Progress)*
 
 
 
