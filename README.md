@@ -36,7 +36,6 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 ![ActiveCampaign](https://img.shields.io/badge/-ActiveCampaign-1572A1?style=flat&logo=activecampaign&logoColor=white)
 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![OptimizePress](https://img.shields.io/badge/-OptimizePress-2C9AB7?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHJlY3Qgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSIjMkM5QUI3Ii8+PC9zdmc+)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Yoast](https://img.shields.io/badge/-Yoast-A4286A?style=flat&logo=yoast&logoColor=white)
 
