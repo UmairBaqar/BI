@@ -61,7 +61,7 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 **🔗 Links:**  
 [📂 View Project Repository](https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git)
 
-<h3>📷 Project Dashboard Previews</h3>
+<h3>📷 Project Preview</h3>
 
 <table>
   <tr>
