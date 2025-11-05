@@ -62,7 +62,8 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 
 
 
-## 📊 Featured Portfolio Projects
+## 📊 Featured Portfolio Projects- **Please Explore My Power BI Portfolio Projects:** 
+👉 (https://umairbaqar.github.io/BI/projects.html)
 
 ### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
 
@@ -71,8 +72,6 @@ An interactive Power BI dashboard analyzing sales performance, top products, and
 **🧩 Skills Showcased:**  
 SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 
-**🔗 Links:**  
-[📂 View Project Repository](https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git)
 
 <h3>📷 Project Preview</h3>
 
@@ -88,8 +87,6 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 </table>
 
 
-**Please Explore My Power BI Portfolio Projects:** 
-👉 (https://umairbaqar.github.io/BI/projects.html)
 
 ---
 
