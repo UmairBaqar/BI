@@ -63,8 +63,7 @@ Detail-oriented and analytical professional with 14+ years of experience in busi
 
 
 ## 📊 Featured Portfolio Projects 
-**Please Explore My Power BI Portfolio Projects:** 
-👉 (https://umairbaqar.github.io/BI/projects.html)
+👉 [Explore My Power BI Portfolio Projects](https://umairbaqar.github.io/BI/projects.html)
 
 ### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
 
