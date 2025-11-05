@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Umair Jawaid | Portfolio Projects</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <section class="portfolio">
+    <h1>📊 Featured Power BI Projects</h1>
+    <div class="swiper mySwiper">
+      <div class="swiper-wrapper">
+
+        <!-- Project 1 -->
+        <div class="swiper-slide">
+          <img src="U Jawaid Dashboard Screen 1.png" alt="Adventure Works Dashboard" />
+          <h3>Adventure Works Sales Analysis</h3>
+          <p>Sales performance, top products, and customer insights using SQL + DAX.</p>
+          <a href="https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git" target="_blank">🔗 View Repository</a>
+        </div>
+
+        <!-- Project 2 -->
+        <div class="swiper-slide">
+          <img src="U Jawaid Dashboard Screen 6 Cleaned Data.png" alt="Variance Analysis Dashboard" />
+          <h3>Variance Analysis Dashboard</h3>
+          <p>Operational insights and budget variance tracking for decision support.</p>
+          <a href="https://github.com/UmairBaqar/Variance-Analysis-Dashboard" target="_blank">🔗 View Repository</a>
+        </div>
+
+        <!-- Add more slides here -->
+
+      </div>
+      <!-- Navigation -->
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+      <div class="swiper-pagination"></div>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+  <script>
+    const swiper = new Swiper('.mySwiper', {
+      loop: true,
+      navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+      },
+      pagination: {
+        el: '.swiper-pagination',
+        clickable: true,
+      },
+      slidesPerView: 1,
+      spaceBetween: 30,
+      breakpoints: {
+        768: { slidesPerView: 2 },
+        1024: { slidesPerView: 3 }
+      }
+    });
+  </script>
+</body>
+</html>
