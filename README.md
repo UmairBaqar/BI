@@ -88,10 +88,8 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 </table>
 
 
-Other Portfolio Project: 
-
-**🔗 Links:**  
-👉 [Explore My Interactive Portfolio Carousel](https://umairbaqar.github.io/BI/projects.html)
+**Please Explore My Power BI Portfolio Projects: **
+👉 (https://umairbaqar.github.io/BI/projects.html)
 
 ---
 
