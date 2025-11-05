@@ -88,11 +88,12 @@ SQL • Power BI • DAX • Star Schema • Data Visualization • KPI Design
 </table>
 
 
-Other Portfolio Project:
+Other Portfolio Project: 
 
 **🔗 Links:**  
 [📂 View Project Repository](https://github.com/UmairBaqar/Variance-Analysis-Dashboard)
 
+👉 [Explore My Interactive Portfolio Carousel](https://umairbaqar.github.io/BI/projects.html)
 
 ---
 
