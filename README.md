@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Umair Jawaid 👋</h1>
 
 <p align="center">
-  Business Analyst | Data Enthusiast | Power BI Developer  
+  Business Analyst | Power BI Developer | BI Reporting Expert  
   <br>
   📍 Based in Winnipeg, Canada
 </p>
