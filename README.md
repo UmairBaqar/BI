@@ -12,12 +12,12 @@
 
 With 14+ years in business administration including sales, marketing, and operations management and 2+ years specializing in data analysis, BI reporting, and process improvement, I work with data driven decisions. Whether automating workflows, visualizing performance, or mining for actionable business insights, I deliver on solutions that drive clarity and impact.
 
-Core Skills:
-✅ Business Analysis & Process Optimization: Skilled in mapping workflows, identifying bottlenecks, and improving operational efficiency.
-✅ Business Intelligence & Data Visualization: Expert in building dynamic dashboards with Excel and Power BI.
-✅ SQL & Excel Automation: Proficient in data modeling, advanced formulas, and automating reporting across platforms.
-✅ Strategic Marketing & Performance Tracking: Experience in analyzing marketing ROI, sales funnels, and service delivery metrics.
 
+Core Skills:<br>
+✅ Business Analysis & Process Optimization: Skilled in mapping workflows, identifying bottlenecks, and improving operational efficiency.<br>
+✅ Business Intelligence & Data Visualization: Expert in building dynamic dashboards with Excel and Power BI.<br>
+✅ SQL & Excel Automation: Proficient in data modeling, advanced formulas, and automating reporting across platforms.<br>
+✅ Strategic Marketing & Performance Tracking: Experience in analyzing marketing ROI, sales funnels, and service delivery metrics.
 
 ---
 
