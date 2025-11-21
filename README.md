@@ -67,8 +67,10 @@ Core Skills:<br>
 - 📘 Microsoft Power BI Data Analyst Associate Certificate *(In Progress)*
 
 
+## 📊 Featured Portfolio Projects  
 
-## 📊 Featured Portfolio Projects 👉👉 [Explore My Power BI Portfolio Projects](https://umairbaqar.github.io/BI/projects.html)
+✨ Dive into my curated collection of **Power BI dashboards** and **business analysis reports**.  
+👉 [**Explore My Power BI Portfolio Projects**](https://umairbaqar.github.io/BI/projects.html)
 
 ### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
 
