@@ -10,13 +10,14 @@
 
 ## 💼 About Me
 
-Detail-oriented and analytical professional with 14+ years of experience in business and program administration, sales & marketing management, and client services. Currently contributing to the Client Services and Program Administration Branch at Manitoba Agriculture, where I apply my expertise in government program administration, business intelligence, and client-centered service delivery.
+With 14+ years in business administration including sales, marketing, and operations management and 2+ years specializing in data analysis, BI reporting, and process improvement, I work with data driven decisions. Whether automating workflows, visualizing performance, or mining for actionable business insights, I deliver on solutions that drive clarity and impact.
 
+Core Skills:
+✅ Business Analysis & Process Optimization: Skilled in mapping workflows, identifying bottlenecks, and improving operational efficiency.
+✅ Business Intelligence & Data Visualization: Expert in building dynamic dashboards with Excel and Power BI.
+✅ SQL & Excel Automation: Proficient in data modeling, advanced formulas, and automating reporting across platforms.
+✅ Strategic Marketing & Performance Tracking: Experience in analyzing marketing ROI, sales funnels, and service delivery metrics.
 
-
-- 🧠 Skilled in: Power BI, SQL, Business Analysis, Workflow Optimization  
-- 🛠️ Tools: Microsoft 365, Power BI, SAP, SharePoint, Canva  
-- 📊 Passionate about visual storytelling, data modeling, and digital transformation
 
 ---
 
