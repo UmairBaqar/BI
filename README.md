@@ -71,7 +71,7 @@ Core Skills:<br>
 ## 📊 Featured Portfolio Projects  
 
 ✨ Dive into my curated collection of **Power BI dashboards** and **Business Analytics Reports**.  <br>
-**##**👉👉👉 [**Explore My Power BI Portfolio Projects**](https://umairbaqar.github.io/BI/projects.html)
+<h1 align="center">👉👉👉 [**Explore My Power BI Portfolio Projects**](https://umairbaqar.github.io/BI/projects.html)</h1>
 
 
 ### 🎯 Project 1: Adventure Works Sales Analysis Dashboard
