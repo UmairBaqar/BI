@@ -52,6 +52,8 @@ Core Skills:<br>
 
 ## 📜 Certifications
 
+- Microsoft Certified: Power BI Data Analyst Associate- PL300 
+- Coursera- Microsoft Power BI Data Analyst Certificate- 2026
 - Google Digital Garage – Fundamentals of Digital Marketing  
 - LinkedIn Skill Badges – Google Analytics, Excel  
 - HubSpot Academy – SEO Certificate  
@@ -64,7 +66,7 @@ Core Skills:<br>
 - 🎓 MBA, Industrial Management- 2013  
 - 🎓 BBA, Marketing & Management Information Systems- 2010  
 - 📘 Certificate in Business Analysis- RRC Polytech- Winnipeg, Canada *(In Progress)*  
-- 📘 Coursera- Microsoft Power BI Data Analyst Certificate- 2026 
+
 
 ---
 
