@@ -10,7 +10,7 @@
 
 ## 💼 About Me
 
-With 15+ years in business administration including sales, marketing, and operations management and 2+ years specializing in data analysis, BI reporting, and process improvement, I work with data driven decisions. Whether automating workflows, visualizing performance, or mining for actionable business insights, I deliver on solutions that drive clarity and impact.
+With 15+ years in business administration including sales, marketing, and operations management and 3+ years specializing in data analysis, BI reporting, and process improvement, I work with data driven decisions. Whether automating workflows, visualizing performance, or mining for actionable business insights, I deliver on solutions that drive clarity and impact.
 
 
 Core Skills:<br>
