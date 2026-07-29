@@ -18,45 +18,63 @@
       padding: 40px 20px;
     }
 
+    /* GRID: 2 columns on desktop, 1 on mobile */
     .project-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 25px;
+      grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      gap: 30px;
       padding: 20px;
       max-width: 1200px;
       margin: auto;
     }
 
+    /* CARD */
     .project-card {
       background: #fff;
-      border-radius: 10px;
+      border-radius: 12px;
       padding: 20px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-      transition: transform .2s ease;
+      transition: transform .3s ease, box-shadow .3s ease;
+      opacity: 0;
+      animation: fadeIn 1s forwards;
     }
 
+    /* Fade-in animation */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Hover effect */
     .project-card:hover {
-      transform: translateY(-5px);
+      transform: translateY(-8px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.15);
     }
 
+    /* Image zoom on hover */
     .project-card img {
       width: 100%;
       border-radius: 8px;
+      transition: transform .3s ease;
+    }
+
+    .project-card:hover img {
+      transform: scale(1.05);
     }
 
     .project-card h3 {
       margin-top: 15px;
-      font-size: 1.2em;
+      font-size: 1.3em;
     }
 
     .project-card p {
-      font-size: 0.95em;
+      font-size: 1em;
       color: #555;
     }
 
     .project-card a {
       display: inline-block;
-      margin-top: 10px;
+      margin-top: 12px;
       color: #0078D4;
       text-decoration: none;
       font-weight: bold;
@@ -74,7 +92,7 @@
       <div class="project-card">
         <img src="assets/Main Screen RCA Dashboard.png" alt="Problem Analysis Dashboard" />
         <h3>Problem Analysis / Root Cause Analysis (RCA) Dashboard</h3>
-        <p>An interactive Power BI dashboard implementing a full Root Cause Analysis workflow: Fishbone → Pareto → 5-Why drill-down.</p>
+        <p>Full RCA workflow: Fishbone → Pareto → 5-Why drill-down. Built for structured problem-solving.</p>
         <a href="https://github.com/UmairBaqar/ProblemAnalysisDashboard" target="_blank">🔗 View Repository</a>
       </div>
 
@@ -82,27 +100,11 @@
       <div class="project-card">
         <img src="assets/Sales Marketing Funnel Dashboard Main.png" alt="Sales Funnel Dashboard" />
         <h3>Sales & Marketing Funnel Analysis</h3>
-        <p>Provides visibility into customer journey stages, campaign effectiveness, and conversion efficiency.</p>
+        <p>End-to-end funnel visibility, campaign effectiveness insights, and conversion optimization metrics.</p>
         <a href="https://github.com/UmairBaqar/Sales-Marketing-Funnel" target="_blank">🔗 View Repository</a>
       </div>
 
       <!-- Project 2 -->
       <div class="project-card">
         <img src="assets/Main Dashboard Screen.png" alt="Variance Analysis Dashboard" />
-        <h3>Variance Analysis Dashboard</h3>
-        <p>Operational insights and budget variance tracking with Smart Narrative and stakeholder-ready visuals.</p>
-        <a href="https://github.com/UmairBaqar/Variance-Analysis-Dashboard" target="_blank">🔗 View Repository</a>
-      </div>
-
-      <!-- Project 1 -->
-      <div class="project-card">
-        <img src="assets/U Jawaid Dashboard Screen 1.png" alt="Adventure Works Dashboard" />
-        <h3>Adventure Works Sales Analysis</h3>
-        <p>Interactive dashboard analyzing sales performance, top products, and customer insights using SQL + DAX.</p>
-        <a href="https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git" target="_blank">🔗 View Repository</a>
-      </div>
-
-    </div>
-  </section>
-</body>
-</html>
+        <h3>Variance Analysis Dashboard
