@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Umair Jawaid | Portfolio Projects</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
@@ -12,29 +12,49 @@
       margin: 0;
       padding: 20px;
     }
+
     .portfolio {
       text-align: center;
       padding: 40px 20px;
     }
-    .swiper-slide {
+
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 25px;
+      padding: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .project-card {
       background: #fff;
       border-radius: 10px;
       padding: 20px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transition: transform .2s ease;
     }
-    .swiper-slide img {
+
+    .project-card:hover {
+      transform: translateY(-5px);
+    }
+
+    .project-card img {
       width: 100%;
       border-radius: 8px;
     }
-    .swiper-slide h3 {
+
+    .project-card h3 {
       margin-top: 15px;
       font-size: 1.2em;
     }
-    .swiper-slide p {
+
+    .project-card p {
       font-size: 0.95em;
       color: #555;
     }
-    .swiper-slide a {
+
+    .project-card a {
       display: inline-block;
       margin-top: 10px;
       color: #0078D4;
@@ -43,77 +63,46 @@
     }
   </style>
 </head>
+
 <body>
   <section class="portfolio">
-    <h1>📊 Umair Jawaid- Power BI Portfolio Projects</h1>
-    <div class="swiper mySwiper">
-      <div class="swiper-wrapper">
+    <h1>📊 Umair Jawaid — Power BI Portfolio Projects</h1>
 
-        
+    <div class="project-grid">
 
-     
-
-  <!-- Project 4 -->
-        <div class="swiper-slide">
-          <img src="assets/Main Screen RCA Dashboard.png" alt="Problem Analysis Dashboard" />
-          <h3>Problem Analysis/ Root Cause Analysis (RCA) Dashboard</h3>
-          <p>An interactive Power BI dashboard implementing a full Root Cause Analysis (RCA) workflow: structured brainstorming → Fishbone diagramming → 3-tier Pareto (80/20) → 5-Why root cause drill-down.</p>
-          <a href="https://github.com/UmairBaqar/ProblemAnalysisDashboard" target="_blank">🔗 View Repository</a>
-        </div>
-
- <!-- Project 3 -->
-        <div class="swiper-slide">
-          <img src="assets/Sales Marketing Funnel Dashboard Main.png" alt="Variance Analysis Dashboard" />
-          <h3>Sales & Marketing Funnel Analysis</h3>
-          <p>Provides marketing stakeholders visibility into the customer journey across funnel stages, highlight campaign effectiveness, and measure overall conversion efficiency</p>
-          <a href="https://github.com/UmairBaqar/Sales-Marketing-Funnel" target="_blank">🔗 View Repository</a>
-        </div>
-
-   <!-- Project 2 -->
-        <div class="swiper-slide">
-          <img src="assets/Main Dashboard Screen.png" alt="Variance Analysis Dashboard" />
-          <h3>Variance Analysis Dashboard</h3>
-          <p>Operational insights and budget variance tracking with Smart Narrative and stakeholder-ready visuals.</p>
-          <a href="https://github.com/UmairBaqar/Variance-Analysis-Dashboard" target="_blank">🔗 View Repository</a>
-        </div>
-       
-
-
-<!-- Project 1 -->
-        <div class="swiper-slide">
-          <img src="assets/U Jawaid Dashboard Screen 1.png" alt="Adventure Works Dashboard" />
-          <h3>Adventure Works Sales Analysis</h3>
-          <p>Interactive dashboard analyzing sales performance, top products, and customer insights using SQL + DAX.</p>
-          <a href="https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git" target="_blank">🔗 View Repository</a>
-        </div>
-        
+      <!-- Project 4 -->
+      <div class="project-card">
+        <img src="assets/Main Screen RCA Dashboard.png" alt="Problem Analysis Dashboard" />
+        <h3>Problem Analysis / Root Cause Analysis (RCA) Dashboard</h3>
+        <p>An interactive Power BI dashboard implementing a full Root Cause Analysis workflow: Fishbone → Pareto → 5-Why drill-down.</p>
+        <a href="https://github.com/UmairBaqar/ProblemAnalysisDashboard" target="_blank">🔗 View Repository</a>
       </div>
-      <!-- Navigation -->
-      <div class="swiper-button-next"></div>
-      <div class="swiper-button-prev"></div>
-      <div class="swiper-pagination"></div>
+
+      <!-- Project 3 -->
+      <div class="project-card">
+        <img src="assets/Sales Marketing Funnel Dashboard Main.png" alt="Sales Funnel Dashboard" />
+        <h3>Sales & Marketing Funnel Analysis</h3>
+        <p>Provides visibility into customer journey stages, campaign effectiveness, and conversion efficiency.</p>
+        <a href="https://github.com/UmairBaqar/Sales-Marketing-Funnel" target="_blank">🔗 View Repository</a>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="project-card">
+        <img src="assets/Main Dashboard Screen.png" alt="Variance Analysis Dashboard" />
+        <h3>Variance Analysis Dashboard</h3>
+        <p>Operational insights and budget variance tracking with Smart Narrative and stakeholder-ready visuals.</p>
+        <a href="https://github.com/UmairBaqar/Variance-Analysis-Dashboard" target="_blank">🔗 View Repository</a>
+      </div>
+
+      <!-- Project 1 -->
+      <div class="project-card">
+        <img src="assets/U Jawaid Dashboard Screen 1.png" alt="Adventure Works Dashboard" />
+        <h3>Adventure Works Sales Analysis</h3>
+        <p>Interactive dashboard analyzing sales performance, top products, and customer insights using SQL + DAX.</p>
+        <a href="https://github.com/UmairBaqar/Adventure-Works-Power-Bi-Dashboard-.git" target="_blank">🔗 View Repository</a>
+      </div>
+
     </div>
   </section>
-
-  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
-  <script>
-    const swiper = new Swiper('.mySwiper', {
-      loop: true,
-      navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
-      },
-      pagination: {
-        el: '.swiper-pagination',
-        clickable: true,
-      },
-      slidesPerView: 1,
-      spaceBetween: 30,
-      breakpoints: {
-        768: { slidesPerView: 2 },
-        1024: { slidesPerView: 3 }
-      }
-    });
-  </script>
 </body>
 </html>
